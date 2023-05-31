@@ -20,9 +20,10 @@
 **I am Yeyan, coding from Seattle** ☔
 
 **About Me**
-- Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension
-- Health Informatics and Metrics Project Coordinator working on improving community health
-- Motivated individual seeking career opportunities in Data Analytics
+- Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension 👩‍💻
+- Studied Health Informatics and Health Information Management at University of Washington 🎓
+- Health Informatics and Metrics Project Coordinator working on improving community health 💼
+- Motivated individual seeking career opportunities in Data Analytics 👐
 
 **Skills**
 - Data Analysis, Data Visualization, BI Reporting, Data Modeling, ETL, Data Manipulation, etc.
@@ -39,12 +40,12 @@
 - Spanish
 - Crocheting
 
-Feel free to visit my GitHub profile to explore examples of my work and projects!
-
 **My Stats**    
-![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang&show_icons=true)
+  ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang&show_icons=true)
 
 **My current fave gif**
 <br>
-![image](https://github.com/yeyanwang/bio/assets/120543690/e75f84a6-d3ac-46a1-9126-eed2d8f8566b)
+  ![image](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
  
+
+**Thanks for visiting! Feel free to explore examples of my work and projects!** 🤗
