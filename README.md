@@ -12,7 +12,7 @@
 
   <a href="CV/Resume.pdf">
     <img align="left" alt="Yeyan's CV" width="40px" 
-  src="https://img.icons8.com/dotty/80/resume.png" />
+  src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-resume-job-search-flaticons-lineal-color-flat-icons.png" />
   </a>    
  
 <br><br>
@@ -43,6 +43,7 @@
 **My Stats**
 
   ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang) <br> <br>
+       
   ![Yeyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyanwang&layout=compact)
   
 **My current fave GIF**
@@ -50,4 +51,4 @@
   ![image](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
  
 
-**Thanks for visiting! Feel free to explore examples of my work and projects!** 🤗
+**Thanks for visiting! Feel free to explore my repos!** 🤗
