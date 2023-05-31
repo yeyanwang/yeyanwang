@@ -21,7 +21,7 @@
 
 **About Me**
 - Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension 👩‍💻
-- Graduated from University of Washington with B.S. in Health Informatics and Health Information Management 🎓
+- Graduated from University of Washington with a B.S. in Health Informatics and Health Information Management 🎓
 - Currently a Health Informatics and Metrics Project Coordinator working on improving community health 💼
 - Motivated individual seeking career opportunities in Data Analytics 👐
 
@@ -40,11 +40,13 @@
 - Spanish
 - Crocheting
 
-**My Stats**    
-  ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang&show_icons=true)
+**My Stats**
 
-**My current fave gif**
-<br>
+  ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang) <br> <br>
+  ![Yeyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyanwang&layout=compact)
+  
+**My current fave GIF**
+
   ![image](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
  
 
