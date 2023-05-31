@@ -17,6 +17,36 @@
  
 <br><br>
 
-**I am Yeyan, coding from Seattle :)**
-    
-    
+**I am Yeyan, coding from Seattle** ☔
+
+**About Me**
+- Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension
+- Health Informatics and Metrics Project Coordinator working on improving community health
+- Motivated individual seeking career opportunities in Data Analytics
+
+**Skills**
+- Data Analysis, Data Visualization, BI Reporting, Data Modeling, ETL, Data Manipulation, etc.
+- Proficient in Python, SQL, NoSQL (MongoDB), JavaScript, HTML, CSS, VBA
+
+**Additional Expertise**
+- Fundamental knowledge in Big Data and Machine Learning
+- Experience using tools such as MS Excel (e.g., VLOOKUP, PivotTables, PowerQuery), Tableau, Jupyter Notebook, SQL Server (pgAdmin), Visual Studio Code, Google Colab, AWS, Git
+- Experience working with programming packages such as Pandas, NumPy, SciPy, Matplotlib, TensorFlow, Scikit-learn, PySpark, D3, Leaflet, SQLAlchemy, BeautifulSoup, Splinter, and more
+
+**Currently Learning**
+- R
+- More Machine Learning techniques
+- Spanish
+- Crocheting
+
+Feel free to visit my GitHub profile to explore examples of my work and projects!
+
+**My Stats**    
+![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang&show_icons=true)
+
+**My currently fave gif**
+<br>
+<a href="https://www.github.com/yeyanwang/bio/CV/resume.pdf">
+  <img alt="GIT MERGE GIF" width="450px" 
+src="" />
+</a>    
