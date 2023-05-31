@@ -10,7 +10,7 @@
   src="https://img.icons8.com/color/48/tableau-software.png">
   </a>
 
-  <a href="https://www.github.com/yeyanwang/bio/CV/resume.pdf">
+  <a href="CV/Resume.pdf">
     <img align="left" alt="Yeyan's CV" width="40px" 
   src="https://img.icons8.com/dotty/80/resume.png" />
   </a>    
@@ -44,9 +44,7 @@ Feel free to visit my GitHub profile to explore examples of my work and projects
 **My Stats**    
 ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang&show_icons=true)
 
-**My currently fave gif**
+**My current fave gif**
 <br>
-<a href="https://www.github.com/yeyanwang/bio/CV/resume.pdf">
-  <img alt="GIT MERGE GIF" width="450px" 
-src="" />
-</a>    
+![image](https://github.com/yeyanwang/bio/assets/120543690/e75f84a6-d3ac-46a1-9126-eed2d8f8566b)
+ 
