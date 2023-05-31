@@ -21,8 +21,8 @@
 
 **About Me**
 - Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension 👩‍💻
-- Studied Health Informatics and Health Information Management at University of Washington 🎓
-- Health Informatics and Metrics Project Coordinator working on improving community health 💼
+- Graduated from University of Washington with B.S. in Health Informatics and Health Information Management 🎓
+- Currently a Health Informatics and Metrics Project Coordinator working on improving community health 💼
 - Motivated individual seeking career opportunities in Data Analytics 👐
 
 **Skills**
