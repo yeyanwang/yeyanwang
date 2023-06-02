@@ -17,7 +17,7 @@
  
 <br><br>
 
-**I am Yeyan, coding from Seattle** ☔
+## I am Yeyan, coding from Seattle ☔
 
 **About Me**
 - Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension 👩‍💻
