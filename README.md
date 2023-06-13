@@ -20,25 +20,18 @@
 ## I am Yeyan, coding from Seattle ☔
 
 **About Me**
-- Recent grad in Data Analytics and Visualization Professional Certificate Bootcamp with UC Berkeley Extension 👩‍💻
-- Graduated from University of Washington with a B.S. in Health Informatics and Health Information Management 🎓
-- Currently a Health Informatics and Metrics Project Coordinator working on improving community health 💼
-- Motivated individual seeking career opportunities in Data Analytics 👐
+- Motivated data analyst with a professional certificate in Data Analytics and Visualization and a Bachelor's Degree in Health
+Informatics and Health Information Management. Experienced in data analysis, data management, and business
+intelligence. Proficient in Python, R, SQL, Excel, Tableau, Power BI, and more. Seeking a challenging position as a data analyst
+where I can leverage my analytical mindset and technical proficiency to drive data-driven decision-making, optimize business
+processes, and contribute to organizational success. 👩‍💻👐
 
 **Skills**
 - Data Analysis, Data Visualization, BI Reporting, Data Modeling, ETL, Data Manipulation, etc.
-- Proficient in Python, SQL, NoSQL (MongoDB), JavaScript, HTML, CSS, VBA
-
-**Additional Expertise**
-- Fundamental knowledge in Big Data and Machine Learning
-- Experience using tools such as MS Excel (e.g., VLOOKUP, PivotTables, PowerQuery), Tableau, Jupyter Notebook, SQL Server (pgAdmin), Visual Studio Code, Google Colab, AWS, Git
+- Proficient in Python, R, SQL, NoSQL (MongoDB), JavaScript, HTML, CSS, VBA
+- Fundamental knowledge in Big Data, Cloud-Based Computing, and Machine Learning
+- Experience using tools such as MS Excel (e.g., LOOKUPs, PivotTables, PowerQuery), Tableau, PowerBI, Smartsheet, Jupyter Notebook, SQL Server, pgAdmin, RStudio, Visual Studio Code, Google Colab, AWS, Git/GitHub
 - Experience working with programming packages such as Pandas, NumPy, SciPy, Matplotlib, TensorFlow, Scikit-learn, PySpark, D3, Leaflet, SQLAlchemy, BeautifulSoup, Splinter, and more
-
-**Currently Learning**
-- R
-- More Machine Learning techniques
-- Spanish
-- Crocheting
 
 **My Stats**
 
