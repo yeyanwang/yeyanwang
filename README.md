@@ -17,8 +17,6 @@
  
 <br><br>
 
-
-
 ## About Me
 - Motivated data analyst working in the healthcare sector 🩹
 - Incoming Masters in Analytics student at Georgia Tech 🐝
@@ -31,9 +29,7 @@
        
   ![Yeyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyanwang&layout=compact)
   
-## My current fave GIF
-
-  ![image](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
- 
+---------------------------------
+![image](https://media.giphy.com/media/dRvEZLV0ORAmHT1L5u/giphy.gif?cid=790b7611odinnhyaru334p9vkhwghuge532tc5xsfede8v2z&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 **Thanks for visiting! Feel free to explore my repos!** 🤗
