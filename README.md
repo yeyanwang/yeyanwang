@@ -19,27 +19,19 @@
 
 ## I am Yeyan, coding from Seattle ☔
 
-**About Me**
-- Motivated data analyst with a professional certificate in Data Analytics and Visualization and a Bachelor's Degree in Health
-Informatics and Health Information Management. Experienced in data analysis, data management, and business
-intelligence. Proficient in Python, R, SQL, Excel, Tableau, Power BI, and more. Seeking a challenging position as a data analyst
-where I can leverage my analytical mindset and technical proficiency to drive data-driven decision-making, optimize business
-processes, and contribute to organizational success. 👩‍💻👐
+### About Me
+- Motivated data analyst working in the healthcare sector 🩹
+- Incoming Masters in Analytics student at Georgia Tech 🐝
+- Incoming pup mom 🐶
+- Passionate about data science, machine learning, and continuously learning new things to improve my skills 👩‍💻👐
 
-**Skills**
-- Data Analysis, Data Visualization, BI Reporting, Data Modeling, ETL, Data Manipulation, etc.
-- Proficient in Python, R, SQL, NoSQL (MongoDB), JavaScript, HTML, CSS, VBA
-- Fundamental knowledge in Big Data, Cloud-Based Computing, and Machine Learning
-- Experience using tools such as MS Excel (e.g., LOOKUPs, PivotTables, PowerQuery), Tableau, PowerBI, Smartsheet, Jupyter Notebook, SQL Server, pgAdmin, RStudio, Visual Studio Code, Google Colab, AWS, Git/GitHub
-- Experience working with programming packages such as Pandas, NumPy, SciPy, Matplotlib, TensorFlow, Scikit-learn, PySpark, D3, Leaflet, SQLAlchemy, BeautifulSoup, Splinter, and more
-
-**My Stats**
+### My Stats
 
   ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang) <br> <br>
        
   ![Yeyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyanwang&layout=compact)
   
-**My current fave GIF**
+### My current fave GIF
 
   ![image](https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif)
  
