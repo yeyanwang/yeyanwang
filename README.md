@@ -1,4 +1,4 @@
-# Welcome to my GitHub page👋 I am Yeyan, coding from Seattle ☔
+# Hi👋 I am Yeyan, coding from Seattle ☔
 
   <a href="https://www.linkedin.com/in/yeyan-wang/">
     <img align="left" alt="Yeyan's Linkedin" width="40px" 
