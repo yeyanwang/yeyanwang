@@ -18,15 +18,11 @@
 <br><br>
 
 ## About Me
-- Motivated data analyst working in the healthcare sector 🩹
-- Incoming Masters in Analytics student at Georgia Tech 🐝
-- Incoming pup mom 🐶
+- Data analytics professional/Aspiring Data Scientist🧑🏻‍🔬
+- Masters in Analytics at Georgia Tech 🐝
 - Passionate about data science, machine learning, and continuously learning new things to improve my skills 👩‍💻👐
 
 ## My Stats
-
-  ![Yeyan's Stats](https://github-readme-stats.vercel.app/api?username=yeyanwang) <br> <br>
-       
   ![Yeyan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyanwang&layout=compact)
   
 ---------------------------------
