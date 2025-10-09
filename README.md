@@ -10,7 +10,7 @@
   src="https://img.icons8.com/color/48/tableau-software.png">
   </a>
 
-  <a href="Resume_Yeyan_Wang.pdf">
+  <a href="CV/Resume_Yeyan_Wang.pdf">
     <img align="left" alt="Yeyan's CV" width="40px" 
   src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-resume-job-search-flaticons-lineal-color-flat-icons.png" />
   </a>    
